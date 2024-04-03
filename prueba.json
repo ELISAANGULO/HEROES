@@ -1,0 +1,85 @@
+{
+  "personas": [
+    {
+      "ID": 1,
+      "Nombre": "Juan Perez",
+      "CC": "123456789",
+      "Fecha_de_nacimiento": "1990-05-15",
+      "pais": "Colombia",
+      "ciudad": "Bogotá",
+      "hijos": [
+        {
+          "nombre": "María",
+          "edad": 5
+        },
+        {
+          "nombre": "Pedro",
+          "edad": 8
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "Nombre": "Ana Gomez",
+      "CC": "987654321",
+      "Fecha_de_nacimiento": "1985-10-20",
+      "pais": "Colombia",
+      "ciudad": "Medellín",
+      "hijos": []
+    },
+    {
+      "ID": 3,
+      "Nombre": "Carlos Rodriguez",
+      "CC": "456789123",
+      "Fecha_de_nacimiento": "1978-03-12",
+      "pais": "Brasil",
+      "ciudad": "RJ",
+      "hijos": [
+        {
+          "nombre": "Andrés",
+          "edad": 10
+        },
+        {
+          "nombre": "Laura",
+          "edad": 12
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "Nombre": "María Lopez",
+      "CC": "321654987",
+      "Fecha_de_nacimiento": "1995-08-25",
+      "pais": "Brasil",
+      "ciudad": "SP",
+      "hijos": [
+        {
+          "nombre": "Sofía",
+          "edad": 3
+        }
+      ]
+    }
+  ],
+  "departamentos": [
+    {
+      "ID": 1,
+      "pais": "Brasil",
+      "departamento": "Cundinamarca"
+    },
+    {
+      "ID": 2,
+      "pais": "Brasil",
+      "departamento": "Antioquia"
+    },
+    {
+      "ID": 3,
+      "pais": "Colombia",
+      "departamento": "Valle del Cauca"
+    },
+    {
+      "ID": 4,
+      "pais": "Colombia",
+      "departamento": "Atlántico"
+    }
+  ]
+}
